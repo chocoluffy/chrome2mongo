@@ -1,0 +1,17 @@
+{
+  "name": "chrome2mongo-16.6.6",
+  "version": "1.0.0",
+  "description": "A chrome extension that saves url link to MongoDB locally or cloudly.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shunzhe Yu",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.20",
+    "nodemon": "^1.9.2"
+  }
+}
